@@ -1,0 +1,26 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "listofbots-api.js",
+  "version": "1.0",
+  "description": "Listof bot hehe",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "request":"^2.88.0"
+  },
+  "engines": {
+    "node": "12.13.1.x",
+    "npm":"6.13.1x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "Tlth",
+    "node-fetch"
+  ]
+}
